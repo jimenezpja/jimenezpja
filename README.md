@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+I'm+Jes%C3%BAs+Jim%C3%A9nez++Junior+Web+Developer" alt="Typing SVG" /></a>  
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+I'm+Jes%C3%BAs%2C++Junior+Web+Developer" alt="Typing SVG" /></a> 
  
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jimenezpja&layout=compact)
 </div>
